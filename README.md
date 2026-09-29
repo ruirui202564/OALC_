@@ -1,3 +1,8 @@
+For the experimental results, the code is organized according to the section structure of the latest version of the manuscript. 
+For example, running the code in `exp_5_2_1` reproduces the results reported in Section 5.2.1.
+
+The `main_XXX.py` files are directly executable and include the required parameter settings, dataset paths, and other configurations.
+
 OALC_all_github/
 ├── data/                      
 ├── data_multi/                

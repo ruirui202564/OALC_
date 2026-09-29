@@ -1,6 +1,6 @@
 OALC_all_github/
-├── data/                      # datasets
-├── data_multi/                # additional (larger) datasets
+├── data/                      
+├── data_multi/                
 ├── exp_5_2_1/
 │   ├── __init__.py
     ├── draw_Fig7.py           # code for Fig. 7
@@ -21,6 +21,5 @@ OALC_all_github/
 ├── OALC_.py
 ├── OALC_learner.py            # online learner
 ├── Query.py                   # query strategies
-├── readme.txt
 ├── run_OALC.py                # main entry to run OALC
 └── utils.py                   # utility functions

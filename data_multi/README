@@ -1,2 +1,9 @@
+The `data_multi` folder is located at the same directory level as the `data` folder.
+The two folders are provided separately because the dataset files are too large to be uploaded together.
+
+The `covtype` dataset could not be uploaded because its file size exceeds 25 MB.
+Dataset "cifar10" can be downloaded from "https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#cifar10", choose the "cifar10.bz2" file. Extract the file.
+Dataset "mnist" can be downloaded from "https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#mnist", choose the "mnist.scale.bz2" file. Extract the file and remove the "".scale" extension from the filenames.
+Then, put these two datasets into folder "data_multi".
 
 "lymph" and "zoo" files need to be extracted before use.
